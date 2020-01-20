@@ -46,7 +46,7 @@ async def main():
             turn_motor()
             print("executed method feed")
             # 3). set response payload
-            responseMsg = "Most recent feed at your PetFeeder: %s" %datetime.datetime.now()
+            responseMsg = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             payload = {"result": True, "data": responseMsg}
             # 4). set return status code
             status = 200
