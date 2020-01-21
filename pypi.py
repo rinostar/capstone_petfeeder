@@ -26,7 +26,7 @@ def turn_motor():
     p=GPIO.PWM(en,1000)
     p.start(75)
     GPIO.output(in2,GPIO.HIGH)
-    sleep(3)
+    sleep(1)
     GPIO.output(in2,GPIO.LOW)
     GPIO.cleanup()
 
