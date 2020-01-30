@@ -44,7 +44,7 @@ See details in the pypi.py file within this repo
 
 ### c). Register the device with Azure IoT Hub:
 Open an account with Azure and add the following services to your account:
-* [IoT hub] (https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-create-through-portal)
+[IoT hub] (https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-create-through-portal)
 
 Create .env file and update the "DEVICE_CONNECTION_STRING" accordingly
 
