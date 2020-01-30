@@ -26,10 +26,10 @@ Materials:
 Connect Pi with the DC motor through L298N driver:
 <br />https://www.youtube.com/watch?v=2bganVdLg5Q
 <br />https://howchoo.com/g/mjg5ytzmnjh/controlling-dc-motors-using-your-raspberry-pi
-NOTE: Please refer to this GPIO Pinout [diagram](https://www.raspberrypi.org/forums/viewtopic.php?t=154124)
+<br />NOTE: Please refer to this GPIO Pinout [diagram](https://www.raspberrypi.org/forums/viewtopic.php?t=154124)
 
 Attach DC motor to the food dispencer:
-Reference the "Modify Dispencer" session under "Setup Box Components" of this [tutorial](https://docs.google.com/document/d/12b4Bzq5u67sQ7vvfZI9Wh92H_r2RVhh2vrMzNrYyuPc/edit#heading=h.ebz1dxhpidc1)
+<br />Reference the "Modify Dispencer" session under "Setup Box Components" of this [tutorial](https://docs.google.com/document/d/12b4Bzq5u67sQ7vvfZI9Wh92H_r2RVhh2vrMzNrYyuPc/edit#heading=h.ebz1dxhpidc1)
 
 ### b). Add Python code to Raspberry Pi: 
 Dependencies:
@@ -37,7 +37,7 @@ Dependencies:
 * RPi.GPIO
 * azure-iot-device
 * azure-iot-hub
-NOTE: Please use `$ pip3 install <library-name>` for needed
+<br />NOTE: Please use `$ pip3 install <library-name>` for needed
 
 Python code for server on Rasberry Pi:
 See details in the pypi.py file within this repo
