@@ -55,8 +55,8 @@ Be sure to follow the orders:
 * cd into the root folder and run `$ python3 pypi.py`
 
 ## 4. Other Repos:
-* Software (MERN app): https://github.com/rinostar/capstone-petfeeder-app
-* Alexa Feature: https://github.com/rinostar/capstone-petfeeder-alexa
+* Part II. Software (MERN app): https://github.com/rinostar/capstone-petfeeder-app
+* Part III. Alexa Feature: https://github.com/rinostar/capstone-petfeeder-alexa
 
 ## 5. Author & Contact
 Github: [@rinostar](https://github.com/rinostar)
