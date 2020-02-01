@@ -1,7 +1,7 @@
-# Foodiebear Pet Feeder (Part I. Hardware)
+# Foodiebear Pet Feeder (Part I. Hardware & Raspberry Pi)
 
 ## 1. Project Overview
-Foodiebear PetFeeder helps pet owners to stay connected with their loved ones whenever, wherever. This project includes a DIY pet feeder powered by raspberry pi, a MERN web app powered by Azure cloud platform, and an Alexa skill powered by AWS. Whether your pets need to be fed breakfast before you wake up, dinner while you're working late, or simply a treat when you are busy in the house, you should stay tuned to this awesome project :dog::cat::panda_face:
+Foodiebear PetFeeder helps pet owners to stay connected with their loved ones whenever, wherever. This project includes a DIY pet feeder powered by Raspberry Pi, a MERN web app powered by Azure cloud platform, and an Alexa skill powered by AWS. Whether your pets need to be fed breakfast before you wake up, dinner while you're working late, or simply a treat when you are busy in the house, you should stay tuned to this awesome project :dog::cat::panda_face:
 
 To learn more about this project, please read the initial product plan [here](https://gist.github.com/rinostar/a79a67ce073be1d7e5be2e4a55bb714e) or the final architecture diagram below:
 ![Foodiebear](https://user-images.githubusercontent.com/52188117/72955297-63148f00-3d93-11ea-8377-74b722fa7012.png)
@@ -55,8 +55,8 @@ Be sure to follow the orders:
 * cd into the root folder and run `$ python3 pypi.py`
 
 ## 4. Other Repos:
-* Part II. Software (MERN app): https://github.com/rinostar/capstone-petfeeder-app
-* Part III. Alexa Feature: https://github.com/rinostar/capstone-petfeeder-alexa
+* Part II. Web App & Azure Cloud: https://github.com/rinostar/capstone-petfeeder-app
+* Part III. Alexa Skill & Lambda Function: https://github.com/rinostar/capstone-petfeeder-alexa
 
 ## 5. Author & Contact
 Github: [@rinostar](https://github.com/rinostar)
